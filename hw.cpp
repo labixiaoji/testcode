@@ -64,5 +64,5 @@ cout << s[k];
 cout << endl;
 s.clear();
 }
-return 0;
+return 1;
 }
